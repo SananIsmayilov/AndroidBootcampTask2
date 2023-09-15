@@ -1,5 +1,5 @@
 #  Kasım Adalan - Android Kotlin Bootcamp 
-## AndroidBootcampTask1
+## AndroidBootcampTask2
 
 1. After converting the kilometer entered as a parameter to miles,
 Write a method that returns . Mile = Km x 0.621
